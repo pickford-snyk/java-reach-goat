@@ -32,22 +32,22 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>4.2.6.RELEASE</version>
+      <version>6.2.11</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>4.0.4.RELEASE</version>
+      <version>6.2.11</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>4.3.28.RELEASE</version>
+      <version>6.2.11</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-quartz</artifactId>
-      <version>2.1.0.RELEASE</version>
+      <version>3.4.10</version>
     </dependency>
     <dependency>
       <groupId>org.yaml</groupId>
@@ -87,7 +87,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-core</artifactId>
-      <version>5.4.0</version>
+      <version>6.4.11</version>
     </dependency>
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
@@ -102,7 +102,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter</artifactId>
-      <version>2.3.7.RELEASE</version>
+      <version>3.4.10</version>
       <exclusions>
         <exclusion>
           <groupId>org.springframework.boot</groupId>
